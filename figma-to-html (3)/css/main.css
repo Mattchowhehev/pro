@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v25_32 {
+  width: 440px;
+  height: 956px;
+  background: linear-gradient(rgba(119,161,211,1), rgba(121,203,202,1));
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v25_46 {
+  width: 27px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 36px;
+  left: 369px;
+  font-family: NSimSun;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v43_59 {
+  width: 372px;
+  height: 206px;
+  background: url("../images/v43_59.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 10px 10px;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  top: 240px;
+  left: 34px;
+  overflow: hidden;
+}
+.v43_47 {
+  width: 352px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-family: Yuji Syuku;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}
